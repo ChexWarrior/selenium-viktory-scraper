@@ -1,0 +1,20 @@
+{
+  "name": "headlessff",
+  "version": "1.0.0",
+  "description": "A test project to play with selenium and headless firefox",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChexWarrior/headless-firefox.git"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["selenium", "headless", "firefox"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "selenium-webdriver": "^3.6.0"
+  }
+}
